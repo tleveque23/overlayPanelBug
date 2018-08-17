@@ -1,0 +1,12 @@
+
+div {
+  margin-bottom: 15px;
+}
+
+.container {
+  padding: 10px;
+}
+
+:host ::ng-deep button {
+  margin-left: 200px;
+}
